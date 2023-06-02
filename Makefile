@@ -6,4 +6,4 @@ run: ## run application
     go run ./cmd/app
 
 build: ## build application for platforms
-	bash ./build.sh github.com/bruhabruh/rpfont2image
+	bash ./build.sh
